@@ -1,5 +1,5 @@
 #include <windows.h>
-#include "..\ExDll\exdll.h"
+#include "exdll.h"
 
 /**
     BrandingURL v0.1 by Afrow UK
